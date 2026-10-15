@@ -1,0 +1,2 @@
+# database
+kampyuterli kurish
